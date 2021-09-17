@@ -1,0 +1,11 @@
+{
+  "name": "block-creatures-trainer",
+  "version": "1.0.0",
+  "description": "Auotmatically tain block creatures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "batfish17",
+  "license": "ISC"
+}
